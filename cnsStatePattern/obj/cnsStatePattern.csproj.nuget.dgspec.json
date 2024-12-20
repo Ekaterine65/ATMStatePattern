@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\cnsStatePattern\\cnsStatePattern.csproj": {}
+  },
+  "projects": {
+    "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\ATMStatePatternLibrary\\ATMStatePatternLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\ATMStatePatternLibrary\\ATMStatePatternLibrary.csproj",
+        "projectName": "ATMStatePatternLibrary",
+        "projectPath": "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\ATMStatePatternLibrary\\ATMStatePatternLibrary.csproj",
+        "packagesPath": "C:\\Users\\lex15\\.nuget\\packages\\",
+        "outputPath": "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\ATMStatePatternLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lex15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\lex15\\Downloads\\Intel_SGX_SDK_for_Windows_v2.22.100.2": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\cnsStatePattern\\cnsStatePattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\cnsStatePattern\\cnsStatePattern.csproj",
+        "projectName": "cnsStatePattern",
+        "projectPath": "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\cnsStatePattern\\cnsStatePattern.csproj",
+        "packagesPath": "C:\\Users\\lex15\\.nuget\\packages\\",
+        "outputPath": "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\cnsStatePattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lex15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\lex15\\Downloads\\Intel_SGX_SDK_for_Windows_v2.22.100.2": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\ATMStatePatternLibrary\\ATMStatePatternLibrary.csproj": {
+                "projectPath": "E:\\Tech\\5sem\\Software_design_technology\\labs\\lab5\\ATMStatePatternLibrary\\ATMStatePatternLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
