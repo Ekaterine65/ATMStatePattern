@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "wfaStatePattern/1.0.0": {
+        "dependencies": {
+          "ATMStatePatternLibrary": "1.0.0"
+        },
+        "runtime": {
+          "wfaStatePattern.dll": {}
+        }
+      },
+      "ATMStatePatternLibrary/1.0.0": {
+        "runtime": {
+          "ATMStatePatternLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wfaStatePattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATMStatePatternLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
